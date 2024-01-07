@@ -1,3 +1,3 @@
-function locasvatos200(){
+function jodeFuncionBien(){
   console.log('hello world');
 }
