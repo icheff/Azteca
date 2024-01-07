@@ -1,3 +1,3 @@
-function chamoy(){
+function loadFileFromGit(){
 	console.log('hello world');
 }
