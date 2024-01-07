@@ -1,1 +1,3 @@
-codigo nuevo que paso dfdfdfdf dfdfd
+function hello(){
+	console.log('hello world');
+}
