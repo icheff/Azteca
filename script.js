@@ -1,3 +1,3 @@
-function parisVilleLumiere(){
-	console.log('hello world');
+function sayHello(){
+	console.log('say hello');
 }
