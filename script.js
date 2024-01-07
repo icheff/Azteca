@@ -1,3 +1,3 @@
-function loadFileFromGit(){
+function updateCode{
 	console.log('hello world');
 }
