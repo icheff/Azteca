@@ -1,3 +1,3 @@
-function helloWorld3000(){
+function chamoy(){
 	console.log('hello world');
 }
