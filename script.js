@@ -1,3 +1,3 @@
-function crios123456jotoooo(){
+function locasvatos(){
   console.log('hello world');
 }
