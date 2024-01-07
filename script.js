@@ -1,3 +1,3 @@
-function locasvatos(){
+function locasvatos200(){
   console.log('hello world');
 }
