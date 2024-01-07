@@ -1,0 +1,1 @@
+get data from editor ID textarea
