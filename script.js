@@ -1,4 +1,4 @@
-function sayHello8000(){
+function sayHello80002000(){
 	console.log('say hello');
 }
 
