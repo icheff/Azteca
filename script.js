@@ -1,3 +1,3 @@
-function sayHello(){
+function jodertio(){
 	console.log('say hello');
 }
