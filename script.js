@@ -1,4 +1,4 @@
-function joderti200000omlmlmlmlmlmlmlmlmlml(){
+function kinkisCom(){
 	console.log('say hello');
 }
 
