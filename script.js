@@ -1,4 +1,4 @@
-function kinkisAcme20005000(){
+function kinkisAcme200050005000(){
 	console.log('say hello');
 }
 
